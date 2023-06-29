@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ritik-ui/LetsGrowMore-Internship-Project.git/static/css/main.8dd66690.css",
+    "main.js": "/ritik-ui/LetsGrowMore-Internship-Project.git/static/js/main.4c041eda.js",
+    "static/js/787.58363da9.chunk.js": "/ritik-ui/LetsGrowMore-Internship-Project.git/static/js/787.58363da9.chunk.js",
+    "index.html": "/ritik-ui/LetsGrowMore-Internship-Project.git/index.html",
+    "main.8dd66690.css.map": "/ritik-ui/LetsGrowMore-Internship-Project.git/static/css/main.8dd66690.css.map",
+    "main.4c041eda.js.map": "/ritik-ui/LetsGrowMore-Internship-Project.git/static/js/main.4c041eda.js.map",
+    "787.58363da9.chunk.js.map": "/ritik-ui/LetsGrowMore-Internship-Project.git/static/js/787.58363da9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd66690.css",
+    "static/js/main.4c041eda.js"
+  ]
+}
